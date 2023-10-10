@@ -1,4 +1,4 @@
-# Getting Started with Create Web Speech App
+# Getting Started with the Web Speech App
 
 This is a simple app that has only 2 commands available, the "Open menu" and "Close menu".
 If you open the app and if you have YOUR_SUBSCRIPTION_KEY and YOUR_SERVICE_REGION then you need to add it to Navigation.jsx component
