@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create Web Speech App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple app that has only 2 commands available, the "Open menu" and "Close menu".
+If you open the app and if you have YOUR_SUBSCRIPTION_KEY and YOUR_SERVICE_REGION then you need to add it to Navigation.jsx component
+then all you need to do is allow the browser to get access to you microphones device and then say "Open menu" or "Close menu".
 
 ## Available Scripts
 
@@ -39,7 +41,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### IMPORTANT
+# IMPORTANT
 
 - In order for this project to work you need YOUR_SUBSCRIPTION_KEY and YOUR_SERVICE_REGION from your Microsoft Azure Services.
   Please read https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?tabs=windows%2Cterminal&pivots=programming-language-javascript
