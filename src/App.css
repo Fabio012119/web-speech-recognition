@@ -1,0 +1,7 @@
+.instructions_header {
+  font-size: 2rem;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 15%;
+}

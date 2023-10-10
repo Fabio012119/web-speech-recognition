@@ -1,0 +1,38 @@
+.nav-menu {
+  height: 10vh;
+  display: inline-flex;
+  width: 100%;
+  background-color: black;
+}
+
+.logo_image {
+  height: 10vh;
+}
+
+.links-list {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  padding-inline: 0;
+  margin-inline: 0;
+  margin-left: auto;
+  margin-right: 15%;
+  margin-block: 0%;
+  list-style-type: none;
+}
+
+.nav-links {
+  display: flex;
+  color: white;
+  margin-right: 15%;
+  text-wrap: nowrap;
+}
+
+.nav-menu-container {
+  background-color: white;
+}
+
+.nav-menu-container:hover {
+  cursor: pointer;
+}
